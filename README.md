@@ -1,2 +1,2 @@
 # Blockchain
-This is the simple blockchain implementation for educational purposes following Blockchain A-Z Course
+This is a simple blockchain implementation for educational purposes following Blockchain A-Z Course
